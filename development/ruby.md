@@ -326,3 +326,9 @@ Yml formatında ki dil dosyalarının çevrilmesi için bir arayüz sağlar.
 * http://rubygems.org/gems/tolk
 * http://rubydoc.info/gems/tolk/1.3.9/frames
 * https://github.com/tolk/tolk
+
+#### lol_dba
+Kullanılan veritabanını analiz ederek size index'lenmesi gereken alanları önerir ve
+migration'ını hazırlar.
+
+* https://github.com/plentz/lol_dba
